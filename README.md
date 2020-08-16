@@ -12,6 +12,19 @@ This is a parent POM. It ensures that child projects have a consistent configura
 * Consistent JaCoCo reporting.
 * Consistent README.md location and variable filtering.
 
+As well as:
+
+* References to the following repositories:
+  * https://maven.pkg.github.com/drewctaylor/algebraic-type
+  * https://maven.pkg.github.com/drewctaylor/constrain
+  * https://maven.pkg.github.com/drewctaylor/function
+  * https://maven.pkg.github.com/drewctaylor/maven
+  * https://maven.pkg.github.com/drewctaylor/require
+  * https://maven.pkg.github.com/drewctaylor/type-encoded
+* References to the following plugin repositories:
+  * https://maven.pkg.github.com/drewctaylor/maven
+  * https://maven.pkg.github.com/drewctaylor/javapoet-maven-plugin
+
 ## To Use Maven
 
 To use maven:

@@ -18,11 +18,55 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>algebraic-type</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/algebraic-type</url>
+        </repository>
+
+        <repository>
+            <id>constrain</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/constrain</url>
+        </repository>
+
+        <repository>
+            <id>function</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/function</url>
+        </repository>
+
+        <repository>
+            <id>maven</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/maven</url>
+        </repository>
+
+        <repository>
+            <id>require</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/require</url>
+        </repository>
+
+        <repository>
+            <id>type-encoded</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/type-encoded</url>
+        </repository>
+    </repositories>
+
     <pluginRepositories>
         <pluginRepository>
             <id>maven</id>
             <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/drewctaylor/maven</url>
+        </pluginRepository>
+
+        <pluginRepository>
+            <id>javapoet-maven-plugin</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/drewctaylor/javapoet-maven-plugin</url>
         </pluginRepository>
     </pluginRepositories>
 
