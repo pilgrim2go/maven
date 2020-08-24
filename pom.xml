@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/drewctaylor/maven</url>
+            <url>https://maven.pkg.github.com/pilgrim2go/maven</url>
         </repository>
     </distributionManagement>
 
